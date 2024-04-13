@@ -1,0 +1,7 @@
+[package]
+name = "slf"
+version = "0.1.0"
+edition = "2021"
+description = "Parses a simple line based format"
+license-file = "LICENSE"
+repository = "https://github.com/hardliner66/slf"
